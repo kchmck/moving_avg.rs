@@ -1,0 +1,13 @@
+[package]
+name = "moving_avg"
+version = "0.1.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Moving average filter"
+license = "MIT"
+documentation = "https://docs.rs/moving_avg"
+repository = "https://github.com/kchmck/moving_avg.rs"
+keywords = ["moving", "average"]
+
+[dependencies]
+
+num-traits = "0.1.41"
