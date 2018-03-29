@@ -10,4 +10,4 @@ keywords = ["moving", "average"]
 
 [dependencies]
 
-num-traits = "0.1.41"
+num-traits = "0.2.0"
